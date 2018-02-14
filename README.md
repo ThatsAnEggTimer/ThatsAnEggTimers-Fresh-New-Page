@@ -5,6 +5,6 @@
         <meta charset="utf-8">
     </head>
   <body>
-    <p>Whats up party people.</p>
+    <p>Whats up party people?</p>
   </body
 </html>
